@@ -1,0 +1,4 @@
+#Thu Nov 05 20:29:10 IST 2020
+base.0=C\:\\Users\\tusha\\AndroidStudioProjects\\flash-chat-flutter\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

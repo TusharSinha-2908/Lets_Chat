@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "203734635732",
+    "firebase_url": "https://chat-app-4318e.firebaseio.com",
+    "project_id": "chat-app-4318e",
+    "storage_bucket": "chat-app-4318e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203734635732:android:65e054430400ae1d7d1741",
+        "android_client_info": {
+          "package_name": "co.SinhaTushar.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203734635732-vcrps3ocm9bsjbjoj1jafkv2pc3i6sej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvEJ5g8AyfZHNN3zMQIommsopni4rRq-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203734635732-vcrps3ocm9bsjbjoj1jafkv2pc3i6sej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

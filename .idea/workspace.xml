@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c714206-4ff3-40dd-9411-4e51d44c4a1e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/constants.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/constants.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/chat_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/chat_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/login_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/login_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/registration_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/registration_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/welcome_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/welcome_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FlutterView" splitter-proportion="0.7082495" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jHahxdHauzo2OMbTv7Q1gg8zzI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c714206-4ff3-40dd-9411-4e51d44c4a1e" name="Default Changelist" comment="" />
+      <created>1603463594220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603463594220</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="118" y="0" key="#Project_Structure" timestamp="1603725117568">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="118" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1603725117568" />
+    <state width="965" height="132" key="GridCell.Tab.0.bottom" timestamp="1604567043425">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="965" height="132" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604567043425" />
+    <state width="965" height="132" key="GridCell.Tab.0.center" timestamp="1604567043425">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="965" height="132" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604567043425" />
+    <state width="965" height="132" key="GridCell.Tab.0.left" timestamp="1604567043424">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="965" height="132" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604567043424" />
+    <state width="965" height="132" key="GridCell.Tab.0.right" timestamp="1604567043425">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="965" height="132" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604567043425" />
+    <state x="93" y="100" width="826" height="487" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1604566411756">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="100" width="826" height="487" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1280.680@0.0.1280.680" timestamp="1604566411756" />
+    <state x="93" y="100" width="896" height="487" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1604566165869">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="100" width="896" height="487" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1604566165869" />
+    <state width="602" height="401" key="javadoc.popup" timestamp="1603992546139">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="602" height="401" key="javadoc.popup/0.0.1280.680@0.0.1280.680" timestamp="1603992546139" />
+    <state x="165" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1603992860985">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="165" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1603992860985" />
+  </component>
+</project>
