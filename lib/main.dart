@@ -8,10 +8,10 @@ import 'package:firebase_core/firebase_core.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
-  runApp(FlashChat());
+  runApp(LetsChat());
 }
 
-class FlashChat extends StatelessWidget {
+class LetsChat extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(

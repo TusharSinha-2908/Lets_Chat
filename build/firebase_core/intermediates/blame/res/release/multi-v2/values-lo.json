@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\tusha\\AndroidStudioProjects\\flash-chat-flutter\\build\\firebase_core\\intermediates\\res\\merged\\release\\values-lo\\values-lo.xml",
+            "outputFile": "C:\\Users\\tusha\\AndroidStudioProjects\\Flash Chat\\build\\firebase_core\\intermediates\\res\\merged\\release\\values-lo\\values-lo.xml",
             "map": [
                 {
                     "source": "C:\\Users\\tusha\\.gradle\\caches\\transforms-2\\files-2.1\\1a2844bf9df1ec79d6fa60256d24522a\\jetified-play-services-basement-17.0.0\\res\\values-lo\\values.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\tusha\\AndroidStudioProjects\\flash-chat-flutter\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-lo\\values-lo.xml",
+            "outputFile": "C:\\Users\\tusha\\AndroidStudioProjects\\Flash Chat\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-lo\\values-lo.xml",
             "map": [
                 {
                     "source": "C:\\Users\\tusha\\.gradle\\caches\\transforms-2\\files-2.1\\1a2844bf9df1ec79d6fa60256d24522a\\jetified-play-services-basement-17.0.0\\res\\values-lo\\values.xml",

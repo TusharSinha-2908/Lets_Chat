@@ -1,14 +1,14 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="co.SinhaTushar.flashchat"
-4    android:versionCode="4001"
+4    android:versionCode="1"
 5    android:versionName="1.0.0" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="16"
-8-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml
+8-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml
+9-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml
 10    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 11    <!-- <uses-sdk android:minSdkVersion="14" /> -->
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -31,29 +31,29 @@
 21         FlutterApplication and put your custom class here.
 22    -->
 23    <application
-23-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:9:5-32:19
+23-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml:9:5-32:19
 24        android:name="io.flutter.app.FlutterApplication"
-24-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:10:9-57
+24-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml:10:9-57
 25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 25-->[androidx.core:core:1.1.0] C:\Users\tusha\.gradle\caches\transforms-2\files-2.1\f1308ae1975b884eda700d9efcb5b767\core-1.1.0\AndroidManifest.xml:24:18-86
 26        android:icon="@mipmap/ic_launcher"
-26-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:12:9-43
-27        android:label="Flash Chat" >
-27-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:11:9-35
+26-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml:12:9-43
+27        android:label="Let&apos;s Chat" >
+27-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml:11:9-28
 28        <activity
-28-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:13:9-31:20
+28-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml:13:9-31:20
 29            android:name="co.appbrewery.flash_chat.MainActivity"
-29-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:14:13-41
+29-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml:14:13-41
 30            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-30-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:17:13-144
+30-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml:17:13-144
 31            android:hardwareAccelerated="true"
-31-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:18:13-47
+31-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml:18:13-47
 32            android:launchMode="singleTop"
-32-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:15:13-43
+32-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml:15:13-43
 33            android:theme="@style/LaunchTheme"
-33-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:16:13-47
+33-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml:16:13-47
 34            android:windowSoftInputMode="adjustResize" >
-34-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:19:13-55
+34-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml:19:13-55
 35
 36            <!--
 37                 This keeps the window background of the activity showing
@@ -62,50 +62,50 @@
 40                 defined in @style/LaunchTheme).
 41            -->
 42            <meta-data
-42-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:24:13-26:40
+42-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml:24:13-26:40
 43                android:name="io.flutter.app.android.SplashScreenUntilFirstFrame"
-43-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:25:17-82
+43-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml:25:17-82
 44                android:value="true" />
-44-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:26:17-37
+44-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml:26:17-37
 45
 46            <intent-filter>
-46-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:27:13-30:29
+46-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml:27:13-30:29
 47                <action android:name="android.intent.action.MAIN" />
-47-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:28:17-68
-47-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:28:25-66
+47-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml:28:17-68
+47-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml:28:25-66
 48
 49                <category android:name="android.intent.category.LAUNCHER" />
-49-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:29:17-76
-49-->C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\android\app\src\main\AndroidManifest.xml:29:27-74
+49-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml:29:17-76
+49-->C:\Users\tusha\AndroidStudioProjects\Flash Chat\android\app\src\main\AndroidManifest.xml:29:27-74
 50            </intent-filter>
 51        </activity>
 52
 53        <service
-53-->[:firebase_auth] C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+53-->[:firebase_auth] C:\Users\tusha\AndroidStudioProjects\Flash Chat\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
 54            android:name="com.google.firebase.components.ComponentDiscoveryService"
-54-->[:firebase_auth] C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:8:18-89
+54-->[:firebase_auth] C:\Users\tusha\AndroidStudioProjects\Flash Chat\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:8:18-89
 55            android:directBootAware="true"
 55-->[com.google.firebase:firebase-common:19.3.1] C:\Users\tusha\.gradle\caches\transforms-2\files-2.1\06321a4f1da863d68c8804677427e73b\jetified-firebase-common-19.3.1\AndroidManifest.xml:35:13-43
 56            android:exported="false" >
 56-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\tusha\.gradle\caches\transforms-2\files-2.1\91534a9db6934e16563ed0e1b1f7f6e4\firebase-auth-19.4.0\AndroidManifest.xml:35:13-37
 57            <meta-data
-57-->[:firebase_auth] C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+57-->[:firebase_auth] C:\Users\tusha\AndroidStudioProjects\Flash Chat\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 58                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-58-->[:firebase_auth] C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:10:17-124
+58-->[:firebase_auth] C:\Users\tusha\AndroidStudioProjects\Flash Chat\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:10:17-124
 59                android:value="com.google.firebase.components.ComponentRegistrar" />
-59-->[:firebase_auth] C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+59-->[:firebase_auth] C:\Users\tusha\AndroidStudioProjects\Flash Chat\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 60            <meta-data
-60-->[:cloud_firestore] C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+60-->[:cloud_firestore] C:\Users\tusha\AndroidStudioProjects\Flash Chat\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 61                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
-61-->[:cloud_firestore] C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:10:17-134
+61-->[:cloud_firestore] C:\Users\tusha\AndroidStudioProjects\Flash Chat\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:10:17-134
 62                android:value="com.google.firebase.components.ComponentRegistrar" />
-62-->[:cloud_firestore] C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+62-->[:cloud_firestore] C:\Users\tusha\AndroidStudioProjects\Flash Chat\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 63            <meta-data
-63-->[:firebase_core] C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+63-->[:firebase_core] C:\Users\tusha\AndroidStudioProjects\Flash Chat\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 64                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-64-->[:firebase_core] C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:10:17-124
+64-->[:firebase_core] C:\Users\tusha\AndroidStudioProjects\Flash Chat\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:10:17-124
 65                android:value="com.google.firebase.components.ComponentRegistrar" />
-65-->[:firebase_core] C:\Users\tusha\AndroidStudioProjects\flash-chat-flutter\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+65-->[:firebase_core] C:\Users\tusha\AndroidStudioProjects\Flash Chat\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 66            <meta-data
 66-->[com.google.firebase:firebase-auth:19.4.0] C:\Users\tusha\.gradle\caches\transforms-2\files-2.1\91534a9db6934e16563ed0e1b1f7f6e4\firebase-auth-19.4.0\AndroidManifest.xml:36:13-38:85
 67                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"

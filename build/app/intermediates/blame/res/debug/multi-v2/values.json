@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\tusha\\AndroidStudioProjects\\flash-chat-flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\tusha\\AndroidStudioProjects\\Flash Chat\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\tusha\\.gradle\\caches\\transforms-2\\files-2.1\\63a7c4d3e4b48e466596ed6f760df9ff\\play-services-base-17.1.0\\res\\values\\values.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\tusha\\AndroidStudioProjects\\flash-chat-flutter\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "source": "C:\\Users\\tusha\\AndroidStudioProjects\\Flash Chat\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -37,6 +37,25 @@
                         "startOffsets": "7730,7874,7983,8065,8169,8278,8398,8496",
                         "endColumns": "143,108,81,103,108,119,97,74",
                         "endOffsets": "7869,7978,8060,8164,8273,8393,8491,8566"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\tusha\\AndroidStudioProjects\\Flash Chat\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "353"
+                    },
+                    "to": {
+                        "startLines": "113",
+                        "startColumns": "4",
+                        "startOffsets": "8642",
+                        "endLines": "117",
+                        "endColumns": "12",
+                        "endOffsets": "8934"
                     }
                 },
                 {
@@ -54,25 +73,6 @@
                         "startOffsets": "5259,6437",
                         "endColumns": "67,166",
                         "endOffsets": "5322,6599"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\tusha\\AndroidStudioProjects\\flash-chat-flutter\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "353"
-                    },
-                    "to": {
-                        "startLines": "113",
-                        "startColumns": "4",
-                        "startOffsets": "8642",
-                        "endLines": "117",
-                        "endColumns": "12",
-                        "endOffsets": "8934"
                     }
                 },
                 {

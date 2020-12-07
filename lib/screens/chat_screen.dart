@@ -18,7 +18,7 @@ class _ChatScreenState extends State<ChatScreen> {
   final textEditingController = TextEditingController();
 
   final _auth = FirebaseAuth.instance;
-
+  String time;
   String message;
 
   @override
@@ -100,6 +100,7 @@ class _ChatScreenState extends State<ChatScreen> {
                       _fireStore.collection('Messages').add({
                         'Sender': logInUser.email,
                         'Text': message,
+                        'Time': Timestamp.now(),
                       });
                     },
                     child: Text(
@@ -121,10 +122,10 @@ class MessageStream extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return StreamBuilder<QuerySnapshot>(
-      stream: _fireStore.collection('Messages').snapshots(),
+      stream: _fireStore.collection('Messages').orderBy('Time').snapshots(),
       builder: (context, snapshot) {
         if (snapshot.hasData) {
-          final messages = snapshot.data.docs.reversed;
+          final messages = snapshot.data.docs;
           List<MessageBubble> messageBubbles = [];
 
           for (var message in messages) {
@@ -143,7 +144,7 @@ class MessageStream extends StatelessWidget {
           }
           return Expanded(
             child: ListView(
-              reverse: true,
+              reverse: false,
               children: messageBubbles,
               padding: EdgeInsets.symmetric(horizontal: 10, vertical: 20),
             ),

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\tusha\\AndroidStudioProjects\\flash-chat-flutter\\build\\firebase_auth\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-is\\values-is.xml",
+            "outputFile": "C:\\Users\\tusha\\AndroidStudioProjects\\Flash Chat\\build\\firebase_auth\\intermediates\\res\\merged\\release\\values-is\\values-is.xml",
             "map": [
                 {
                     "source": "C:\\Users\\tusha\\.gradle\\caches\\transforms-2\\files-2.1\\63a7c4d3e4b48e466596ed6f760df9ff\\play-services-base-17.1.0\\res\\values-is\\values.xml",
@@ -57,7 +57,7 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\tusha\\AndroidStudioProjects\\flash-chat-flutter\\build\\firebase_auth\\intermediates\\res\\merged\\release\\values-is\\values-is.xml",
+            "outputFile": "C:\\Users\\tusha\\AndroidStudioProjects\\Flash Chat\\build\\firebase_auth\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-is\\values-is.xml",
             "map": [
                 {
                     "source": "C:\\Users\\tusha\\.gradle\\caches\\transforms-2\\files-2.1\\63a7c4d3e4b48e466596ed6f760df9ff\\play-services-base-17.1.0\\res\\values-is\\values.xml",
