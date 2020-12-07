@@ -66,7 +66,11 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                       height: 80,
                     )),
                 TypewriterAnimatedTextKit(
+<<<<<<< HEAD
                   text: [' Let\'s Chat'],
+=======
+                  text: ['Let\'s Chat'],
+>>>>>>> 9e3639fae18f28d89abb7e41e095bed50d75a01e
                   repeatForever: true,
                   speed: Duration(milliseconds: 500),
                   textStyle: TextStyle(
